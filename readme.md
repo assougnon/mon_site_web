@@ -1,1 +1,2 @@
-mon site web pour le cour git
+# ressources_cours_git
+Les ressources pour le cours git
